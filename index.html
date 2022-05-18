@@ -6,5 +6,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Time Tracker</title>
 </head>
+<body>
+    <main>
+        <section class="newActivityEntry">
+            <form id="ActivityEntryForm">
+                <label form="Activity">Enter Activity</label>
+                <input id="newactivity" type="text" size="40" autocomplete="off" placeholde="Add Item" tabindex="0"/>
+                <button id="addActivity" class="button" title="Add New Activity" aria-label="Add new Activity to list" tabindex="0">+</button>
+            </form>
+        </section>
+        <section class="ActivityContainer">
+            <div class="listTitle">
+                <h1> Activity List</h1>
+                <button id="clearItems" class="button" title="Clear list" aria-label="Remove all items from list" tabindex="0">Clear</button>
+            </div>
+            <hr /> <!--Creates Horizontal Line-->
+            <div id="ListAcitivity">
+                <div class="item">
+                    <input type="checkbox" id="1" tabindex="0">
+                    <label for="1">Sleep</label>
+                    
+                </div>
+                <div class="item">
+                    <input type="checkbox" id="2" tabindex="0">
+                    <label for="2">Sleep</label>
+                    
+                </div>
+            </div>
+
+        </section>
+    </main>
+</body>
 
 </html>
