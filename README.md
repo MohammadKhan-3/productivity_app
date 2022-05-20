@@ -14,3 +14,20 @@ Programming a time tracker app that allows you to log activites &amp; what activ
 - [ ] Tracking Energy level: 
   - [ ] Simple Q&A: Rate energy level on linear scale when they track their time. Then show daily/weekly/monthly energy level
   - [ ] Create Goals for energy levels
+
+# Environment Setup:
+- Flutter: 3.0.0
+- Android Studio: 2021.2
+- Git: 2.36.1
+- Visual Studio: 3.2.2148
+- Visual Studio Code: 1.67.2
+
+## Flutter Setup: 
+- Install Flutter for your OS: https://docs.flutter.dev/get-started/install
+- Additional videos for setting up Flutter:
+   - https://www.youtube.com/watch?v=oScC5rxHC9E&t=958s&ab_channel=CodingCafe
+
+## Building Basic Flutter App:
+- Part 1: https://docs.flutter.dev/get-started/codelab
+- Part 2: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
+- Flutter Development Docs:https://flutter.dev/development
