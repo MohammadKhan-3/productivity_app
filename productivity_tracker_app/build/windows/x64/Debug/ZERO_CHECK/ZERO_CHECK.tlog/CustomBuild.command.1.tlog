@@ -1,0 +1,10 @@
+^C:\USERS\MOHAM\ONEDRIVE\DESKTOP\APP DEV PROJECTS\PRODUCTIVITY_APP\PRODUCTIVITY_APP\PRODUCTIVITY_TRACKER_APP\BUILD\WINDOWS\CMAKEFILES\029BBEB872C974F8D52A52B92AE474FB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/windows" "-BC:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/productivity_tracker_app.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

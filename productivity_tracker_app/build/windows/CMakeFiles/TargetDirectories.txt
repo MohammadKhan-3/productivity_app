@@ -1,0 +1,10 @@
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/runner/CMakeFiles/productivity_tracker_app.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/moham/OneDrive/Desktop/App Dev Projects/productivity_app/productivity_app/productivity_tracker_app/build/windows/runner/CMakeFiles/ALL_BUILD.dir

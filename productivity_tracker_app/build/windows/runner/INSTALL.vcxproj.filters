@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\moham\OneDrive\Desktop\App Dev Projects\productivity_app\productivity_app\productivity_tracker_app\build\windows\CMakeFiles\a2d2b835eec49e6506e3dd1212781c77\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7E630B08-9055-3983-8544-E468F957FB5C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
