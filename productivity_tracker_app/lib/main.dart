@@ -115,17 +115,28 @@ const ColorScheme _shrineColorScheme = ColorScheme(
 
 const Color shrineBlack = Color.fromRGBO(70, 0, 182, 1);
 const Color shrinePurple50 = Color.fromRGBO(70, 0, 182, 1);
-const Color shrinePink50 = Color.fromRGBO(254, 234, 230, 1);
-const Color shrinePink100 = Color.fromRGBO(254, 219, 208, 1);
+
+// plus button color
+// const Color shrinePink50 = Color.fromRGBO(254, 234, 230, 1);
+const Color shrinePink50 = Color.fromRGBO(125, 125, 255, 1);
+
+// Header color
+// const Color shrinePink100 = Color.fromRGBO(254, 219, 208, 1);
+const Color shrinePink100 = Color.fromRGBO(125, 125, 255, 1);
+//
 const Color shrinePink300 = Color.fromRGBO(251, 184, 172, 1);
 const Color shrinePink400 = Color.fromRGBO(234, 164, 164, 1);
 
+// Plus sign color
 const Color shrineBrown900 = Color.fromRGBO(0, 0, 0, 1);
+
 const Color shrineBrown600 = Color(0xFF7D4F52);
 
 const Color shrineErrorRed = Color(0xFFC5032B);
 
-const Color shrineSurfaceWhite = Color(0xFFFFFBFA);
-const Color shrineBackgroundWhite = Colors.white;
+// const Color shrineSurfaceWhite = Color(0xFFFFFBFA);
+const Color shrineSurfaceWhite = Color.fromRGBO(81, 81, 112, 1);
+// const Color shrineBackgroundWhite = Colors.white;
+const Color shrineBackgroundWhite = Color.fromRGBO(81, 81, 112, 1);
 
 const defaultLetterSpacing = 0.03;
